@@ -1,0 +1,28 @@
+# Supported languages
+en: English
+
+# Website info
+title:
+  en: Fort Wayne DSA
+description:
+  en: Fort Wayne DSA - Three Rivers, One Struggle
+chapter-name:
+  en: Fort Wayne DSA
+
+# Join DSA button
+join:
+  text:
+    en: Join DSA
+  url: # Override DSA national link
+    default: # Apply a link to all languages
+    en: # Or define specific values
+
+# Footer
+follow-us:
+  en: Follow us on social media
+back-to-top:
+  en: Back to top
+
+# Other content
+photo:
+  en: Photo
