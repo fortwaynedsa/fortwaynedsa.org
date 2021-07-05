@@ -8,6 +8,6 @@ The easist way to contact us is via email: **info [a] fortwaynedsa [dot] org**
 
 We also have a PO box:
 
-> Fort Wayne DSA
-> PO Box 8233
-> Fort Wayne, IN 46898
+> Fort Wayne DSA  
+> PO Box 8233  
+> Fort Wayne, IN 46898  
