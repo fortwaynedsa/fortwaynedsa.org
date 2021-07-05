@@ -1,5 +1,5 @@
 # Add content here to enable a site-wide announcement
 text:
-  default: "We're just setting things up - come back later for more content!"
+  default: We're just setting things up - come back later for more content!
 url:
   default: /
