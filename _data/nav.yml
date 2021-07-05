@@ -6,3 +6,7 @@ elements:
       en: About
       url:
         default: about
+  - page:
+      en: Contact
+      url:
+        default: contact
