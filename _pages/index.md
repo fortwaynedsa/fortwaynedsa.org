@@ -1,4 +1,4 @@
 ---
 title: "Fort Wayne DSA"
-permalink: /index/
+permalink: /index
 ---
