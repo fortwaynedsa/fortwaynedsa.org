@@ -3,6 +3,10 @@ menu:
 
 elements:
   - page:
+      en: Events
+      url:
+        default: events
+  - page:
       en: About
       url:
         default: about
