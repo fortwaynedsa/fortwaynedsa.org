@@ -1,9 +1,7 @@
 ---
 lang-ref: homepage
-title: Fort Wayne DSA
-description: Three Rivers, One Struggle
-headline: Fort Wayne DSA
-subhead: Three Rivers, One Struggle
+title: Three Rivers, One Struggle
+description: Democratic Socialist chapter of Fort Wayne, Indiana and surrounding areas.
 ---
 
 Hello, world!
