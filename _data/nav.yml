@@ -1,0 +1,8 @@
+menu:
+  en: Menu
+
+elements:
+  - page:
+      en: About
+      url:
+        default: about
