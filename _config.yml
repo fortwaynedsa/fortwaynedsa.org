@@ -1,0 +1,57 @@
+chapter:
+  url: https://fortwaynedsa.org
+  facebook: https://www.facebook.com/Fort-Wayne-DSA-101470055266944/
+  instagram: https://instagram.com/fortwaynedsa
+  twitter: https://twitter.com/fortwaynedsa
+  # Override DSA national logos
+  header-logo-svg:
+  header-logo-png-fallback: # 360px square recommended
+  background-logo-svg:
+  background-logo-png-fallback: # 1440px square recommended
+google_analytics: # Tracking ID
+teamup: # Calendar API key
+permalink: pretty
+remote_theme: ChicagoDSA/haymarket # Append @vX.X.X to specify a version number
+staging_url:
+plugins:
+  - jekyll-redirect-from
+jekyll_webp_installed: false
+
+# Set default front matter for Markdown files
+defaults:
+  - scope:
+      path: "" # All files
+    values:
+      lang: en
+      layout: default
+      image: assets/images/og-image.png # Social media preview
+
+  # Set redirects relative to base
+  - scope:
+      path: _redirect-to
+    values:
+      permalink: /:path
+
+  # Set URLs and language code for collections
+  # English
+  - scope:
+      path: _homepage/en/index.md
+    values:
+      permalink: / # Set as index
+  - scope:
+      path: _pages/en
+    values:
+      permalink: /:title
+
+# Manage lists of content with collections
+# https://jekyllrb.com/docs/collections/
+collections:
+  # Export redirects
+  redirect-to:
+    output: true
+  # Homepage translations
+  homepage:
+    output: true
+  # Add single pages in the _pages folder
+  pages:
+    output: true
