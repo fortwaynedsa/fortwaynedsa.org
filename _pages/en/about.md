@@ -1,9 +1,7 @@
 ---
 lang-ref: about
-title: About the Fort Wayne DSA
-description: <!-- optional metadata -->
-headline: About the Fort Wayne DSA
-subhead: <!-- optional display text -->
+title: About Us
+headline: About Us
 ---
 
 We're a group of Democratic Socialists in the Fort Wayne, Indiana area, that started organizing in early 2021.
