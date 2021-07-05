@@ -55,3 +55,5 @@ collections:
   # Add single pages in the _pages folder
   pages:
     output: true
+  events:
+    output: true
