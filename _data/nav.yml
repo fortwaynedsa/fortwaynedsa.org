@@ -10,3 +10,7 @@ elements:
       en: Contact
       url:
         default: contact
+  - page:
+      en: Sign up for Updates
+      url:
+        default: https://actionnetwork.org/forms/sign-up-for-fort-wayne-dsa-updates
