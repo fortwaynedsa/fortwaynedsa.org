@@ -1,11 +1,11 @@
 repository: fortwaynedsa/fortwaynedsa.org
 chapter:
-  url: https://fortwaynedsa.org
+  url: 
   facebook: https://www.facebook.com/Fort-Wayne-DSA-101470055266944/
   instagram: https://instagram.com/fortwaynedsa
   twitter: https://twitter.com/fortwaynedsa
   # Override DSA national logos
-  header-logo-svg: https://fortwaynedsa.org/assets/images/logo-trimmed.svg
+  header-logo-svg: /assets/images/logo-trimmed.svg
   header-logo-png-fallback:
   background-logo-svg:
   background-logo-png-fallback: # 1440px square recommended
