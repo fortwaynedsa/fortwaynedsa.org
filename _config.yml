@@ -4,8 +4,8 @@ chapter:
   instagram: https://instagram.com/fortwaynedsa
   twitter: https://twitter.com/fortwaynedsa
   # Override DSA national logos
-  header-logo-svg: 
-  header-logo-png-fallback: pfp.png
+  header-logo-svg: https://fortwaynedsa.org/assets/images/logo.svg
+  header-logo-png-fallback:
   background-logo-svg:
   background-logo-png-fallback: # 1440px square recommended
 google_analytics: # Tracking ID
