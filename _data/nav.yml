@@ -1,7 +1,15 @@
 menu:
   en: Menu
-
+  
 elements:
+  - button:
+      en: Join DSA
+      url:
+        default: https://www.dsausa.org/join
+  - button:
+      en: Sign up for updates
+      url:
+        default: https://actionnetwork.org/forms/sign-up-for-fort-wayne-dsa-updates
   - page:
       en: Events
       url:
@@ -18,7 +26,3 @@ elements:
       en: Contact
       url:
         default: contact
-  - page:
-      en: "*Sign up for Updates*"
-      url:
-        default: https://actionnetwork.org/forms/sign-up-for-fort-wayne-dsa-updates
