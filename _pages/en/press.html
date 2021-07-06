@@ -1,0 +1,18 @@
+---
+lang-ref: press
+title: Press
+---
+
+<h2>Press Releases</h2>
+
+{% for item in site.pr %}
+  <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
+  <p>{{ item.date | date: "%A, %B %e, %Y" }}</p>
+{% endfor %}
+
+<h2>Op-eds</h2>
+
+{% for item in site.op-eds %}
+  <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
+  <p>{{ item.date | date: "%A, %B %e, %Y" }}</p>
+{% endfor %}
