@@ -10,6 +10,7 @@ top-buttons:
       en: Sign up for updates
       url:
         default: https://actionnetwork.org/forms/sign-up-for-fort-wayne-dsa-updates
+      color: #418e1a
   
 elements:
   - page:
