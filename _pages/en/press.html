@@ -5,7 +5,7 @@ title: Press
 
 <h2>Press Releases</h2>
 
-{% for item in site.pr %}
+{% for item in site.prs %}
   <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
   <p>{{ item.date | date: "%A, %B %e, %Y" }}</p>
 {% endfor %}
