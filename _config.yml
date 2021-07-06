@@ -13,7 +13,7 @@ google_analytics: # Tracking ID
 teamup: # Calendar API key
 permalink: pretty
 remote_theme: fortwaynedsa/haymarket # Append @vX.X.X to specify a version number
-staging_url:
+staging_url: fwdsa.netlify.app
 plugins:
   - jekyll-redirect-from
 jekyll_webp_installed: false
