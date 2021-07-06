@@ -44,6 +44,10 @@ defaults:
       path: _pages/en
     values:
       permalink: /:title
+  - scope:
+      path: _events
+    values:
+      layout: event
 
 # Manage lists of content with collections
 # https://jekyllrb.com/docs/collections/
