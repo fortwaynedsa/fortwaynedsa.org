@@ -48,6 +48,7 @@ defaults:
       path: _events
     values:
       layout: event
+      subhead: :date
 
 # Manage lists of content with collections
 # https://jekyllrb.com/docs/collections/
