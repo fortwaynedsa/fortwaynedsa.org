@@ -11,6 +11,10 @@ elements:
       url:
         default: about
   - page:
+      en: Press
+      url:
+        default: press
+  - page:
       en: Contact
       url:
         default: contact
