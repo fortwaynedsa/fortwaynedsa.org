@@ -1,7 +1,7 @@
 menu:
   en: Menu
   
-elements:
+top-buttons:
   - button:
       en: Join DSA
       url:
@@ -10,6 +10,8 @@ elements:
       en: Sign up for updates
       url:
         default: https://actionnetwork.org/forms/sign-up-for-fort-wayne-dsa-updates
+  
+elements:
   - page:
       en: Events
       url:
