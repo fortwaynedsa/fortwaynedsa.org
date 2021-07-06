@@ -63,3 +63,7 @@ collections:
     output: true
   events:
     output: true
+  prs:
+    output: true
+  op-eds:
+    output: true
