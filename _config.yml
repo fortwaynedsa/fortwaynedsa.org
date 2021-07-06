@@ -17,6 +17,7 @@ staging_url:
 plugins:
   - jekyll-redirect-from
 jekyll_webp_installed: false
+future: true
 
 # Set default front matter for Markdown files
 defaults:
@@ -58,4 +59,3 @@ collections:
     output: true
   events:
     output: true
-    future: true
