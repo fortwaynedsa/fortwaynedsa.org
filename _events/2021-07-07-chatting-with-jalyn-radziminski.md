@@ -9,4 +9,4 @@ Jalyn graduated from Emory University with a bachelors in linguistics and interd
 
 When there is free time, Jalyn enjoys traveling, dancing, gardening, and, as an avid animal lover, pet-sitting or volunteering at animal shelters.
 
-<script src='https://actionnetwork.org/widgets/v4/event/chatting-with-jalyn-radziminski?format=js&source=widget&style=full'></script><div id='can-event-area-chatting-with-jalyn-radziminski' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
+<script src='https://actionnetwork.org/widgets/v4/event/chatting-with-jalyn-radziminski?format=js&source=widget'></script><div id='can-event-area-chatting-with-jalyn-radziminski' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
