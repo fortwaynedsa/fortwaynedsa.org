@@ -1,5 +1,6 @@
 ---
 title: Chatting with Jalyn Radziminski
+image: https://can2-prod.s3.amazonaws.com/events/photos/001/038/318/original/event-jalyn.png
 ---
 
 ![Jalyn graphic](https://can2-prod.s3.amazonaws.com/events/photos/001/038/318/original/event-jalyn.png)
