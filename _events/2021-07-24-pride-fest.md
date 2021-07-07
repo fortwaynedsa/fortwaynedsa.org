@@ -1,4 +1,6 @@
 ---
+date: 2021-07-24 11:00:00 America/Indiana/Indianapolis
+image: https://can2-prod.s3.amazonaws.com/uploads/data/000/554/273/original/index__element100.jpg
 ---
 
 Come help us table our booth at Fort Wayne Pride! We need to set things up at 11am, and will be tabling from 12pm to 7pm. If you can come for any amount of time, please fill out the form below!
