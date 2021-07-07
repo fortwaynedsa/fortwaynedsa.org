@@ -1,4 +1,5 @@
 ---
+date: 2021-06-09 19:00:00 America/Indiana/Indianapolis
 image: https://can2-prod.s3.amazonaws.com/events/photos/001/026/284/original/forrest.png
 ---
 
