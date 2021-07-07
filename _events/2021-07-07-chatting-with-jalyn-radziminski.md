@@ -1,6 +1,6 @@
 ---
 title: Chatting with Jalyn Radziminski
-date: 2021-07-07 19:00:00 -0500
+date: 2021-07-07 19:00:00 +0500
 image: https://can2-prod.s3.amazonaws.com/events/photos/001/038/318/original/event-jalyn.png
 actionnetwork: chatting-with-jalyn-radziminski
 ---
