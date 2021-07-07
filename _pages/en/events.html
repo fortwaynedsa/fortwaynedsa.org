@@ -21,7 +21,8 @@ title: Events
 <h2>Past Events</h2>
 
 {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
-{% for event in site.events | reverse %}
+{% assign sorted = site.events | reverse %}
+{% for event in sorted %}
   {% capture date %}{{ event.date | date: '%s' | plus: 0 }}{% endcapture %}
   {% if date < now %}
     <h3 class="event" style="
