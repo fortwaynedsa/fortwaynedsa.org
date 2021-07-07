@@ -10,7 +10,7 @@ title: Events
   {% capture date %}{{event.date | date: '%s' | plus: 0 %}}{% endcapture %}
   {% if date >= now %}
     <h3 style="
-    background-image: url('{{ event.image }');
+    background-image: url('{{ event.image }}');
     background-size: contain;
     background-repeat: no-repeat;
     background-position-x: right;
@@ -25,7 +25,7 @@ title: Events
   {% capture date %}{{event.date | date: '%s' | plus: 0 %}}{% endcapture %}
   {% if date < now %}
     <h3 style="
-    background-image: url('{{ event.image }');
+    background-image: url('{{ event.image }}');
     background-size: contain;
     background-repeat: no-repeat;
     background-position-x: right;
