@@ -6,4 +6,4 @@ description: Democratic Socialist of America chapter in Fort Wayne, Indiana and 
 
 ## Upcoming Events
 
-{% include list-tiles.html collection="events" %}
+{% include list-events.html collection="events" %}
