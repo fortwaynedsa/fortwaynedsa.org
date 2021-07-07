@@ -3,12 +3,16 @@ lang-ref: events
 title: Events
 ---
 
+<p>We host a Zoom meeting every other Wednesday evening at 7pm where we sometimes have guests on to speak with about a particular topic, or who they are/what they do. If you're interested in talking to us at one of our meetings, please [let us know!](contact)</p>
+
 <h2>Upcoming Events</h2>
 
 {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
+{% increment future_events %}
 {% for event in site.events %}
   {% capture date %}{{ event.date | date: '%s' | plus: 0 }}{% endcapture %}
-  {% if date >= now %}
+  {% if date >= now and future_events < 4 %}
+    {% increment future_events %}
     <h3 class="event" style="
     background-image: url('{{ event.image }}');
     background-size: contain;
@@ -22,9 +26,11 @@ title: Events
 
 {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
 {% assign sorted = site.events | reverse %}
+{% increment past_events %}
 {% for event in sorted %}
   {% capture date %}{{ event.date | date: '%s' | plus: 0 }}{% endcapture %}
-  {% if date < now %}
+  {% if date < now and past_events < 4 %}
+    {% increment past_events %}
     <h3 class="event" style="
     background-image: url('{{ event.image }}');
     background-size: contain;
