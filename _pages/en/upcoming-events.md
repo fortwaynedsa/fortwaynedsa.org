@@ -1,5 +1,6 @@
 ---
 lang-ref: events/upcoming
+permalink: /events/upcoming
 title: Upcoming Events
 ---
 
