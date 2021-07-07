@@ -18,6 +18,7 @@ plugins:
   - jekyll-redirect-from
 jekyll_webp_installed: false
 future: true
+timezone: America/Indiana/Indianapolis
 
 # Set default front matter for Markdown files
 defaults:
