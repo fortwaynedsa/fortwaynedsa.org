@@ -6,13 +6,13 @@ title: Press
 <h2>Press Releases</h2>
 
 {% for item in site.releases %}
-  <h3><a href="{{ item.url }}">{{ item.title }}<br />
+  <h3 class="event"><a href="{{ item.url }}">{{ item.title }}<br />
     <small>{{ item.date | date: "%A, %B %e, %Y" }}</small></a></h3>
 {% endfor %}
 
 <h2>Opinions</h2>
 
 {% for item in site.opinions %}
-  <h3><a href="{{ item.url }}">{{ item.title }}<br />
+  <h3 class="event"><a href="{{ item.url }}">{{ item.title }}<br />
     <small>{{ item.date | date: "%A, %B %e, %Y" }}</small></a></h3>
 {% endfor %}
