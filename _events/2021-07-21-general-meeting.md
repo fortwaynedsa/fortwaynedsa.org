@@ -1,6 +1,7 @@
 ---
 title: Debating Convention Resolutions
 date: 2021-07-21 19:00:00 America/Indiana/Indianapolis
+image: https://can2-prod.s3.amazonaws.com/events/photos/001/045/007/original/national-convention.png
 actionnetwork: fort-wayne-dsa-general-meeting-2
 ---
 
