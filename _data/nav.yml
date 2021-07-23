@@ -5,7 +5,7 @@ top-buttons:
   - button:
       en: Join DSA
       url:
-        default: https://www.dsausa.org/join
+        default: https://fortwaynedsa.org/join
   - button:
       en: Sign up for updates
       url:
