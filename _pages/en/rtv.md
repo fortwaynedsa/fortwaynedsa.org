@@ -1,4 +1,4 @@
 ---
-layout: destination
-url: https://indianavoters.in.gov/
+layout: forward
+destination: https://indianavoters.in.gov/
 ---
