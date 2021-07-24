@@ -5,7 +5,7 @@ top-buttons:
   - button:
       en: Join DSA
       url:
-        default: https://fortwaynedsa.org/join
+        default: join
   - button:
       en: Sign up for updates
       url:
@@ -17,10 +17,6 @@ elements:
       en: Events
       url:
         default: events
-  - page:
-      en: About
-      url:
-        default: about
   - page:
       en: Press
       url:
