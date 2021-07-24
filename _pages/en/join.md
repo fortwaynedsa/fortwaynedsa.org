@@ -9,7 +9,7 @@ We believe tomorrow’s change starts today.  We’re here to challenge the sta
 
 We are working to effect massive social change while establishing an openly socialist presence in American communities and politics. Joining DSA means making a commitment to cooperation and solidarity — and it all starts at the local level. 
 
-{% include comp-image-caption.html image="https://user-images.githubusercontent.com/141431/126855403-9e7807c3-01b2-4887-9624-d225eb0742e2.jpg" credit="Ashley Malloy" %}
+{% include comp-sm-image.html image="https://user-images.githubusercontent.com/141431/126855403-9e7807c3-01b2-4887-9624-d225eb0742e2.jpg" credit="Ashley Malloy" %}
 
 ## Ready to do the work?
 
