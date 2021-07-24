@@ -2,6 +2,8 @@
 lang-ref: homepage
 title: Three Rivers, One Struggle
 description: Democratic Socialist of America chapter in Fort Wayne, Indiana and surrounding areas.
+redirect_from:
+  - /about
 ---
 
 ## What is the DSA?
