@@ -23,7 +23,7 @@ These are the current positions we have, but new positions can be added with a s
 * reimbursements
 
 ### Social Media Coordinator:
-* Oversee Facebook, Twitter and any other efforts on social media. (You will have help!)
+* Oversee Facebook, Twitter, Instagram any other efforts on social media. (You will have help!)
 
 ### Membership/Outreach Coordinator
 * Lead membership mapping & list work in accordance with political direction from chairs & membership
