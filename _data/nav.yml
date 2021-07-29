@@ -14,6 +14,10 @@ top-buttons:
   
 elements:
   - page:
+      en: Elections
+      url:
+        default: elections
+  - page:
       en: Events
       url:
         default: events
