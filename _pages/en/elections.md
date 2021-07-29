@@ -1,4 +1,6 @@
 ---
+title: Chapter Elections
+description: Bringing new people & ideas into Fort Wayne DSA leadership
 ---
 
 **Fort Wayne DSA needs you!** Our steering committee has laid the foundation, and we need people to take our chapter to the next level. Fill out the form below to indicate your interest in one of the positions on our executive committee (the group of people that help organize the chapter)!
@@ -9,9 +11,11 @@ After the meeting, a link to the ballot will be emailed to our membership - voti
 
 <link href='https://actionnetwork.org/css/style-embed-whitelabel-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v4/form/candidate-nomination?format=js&source=widget'></script><div id='can-form-area-candidate-nomination' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
 
-These are the current positions we have, but new positions can be added with a simple majority of the steering committee - [come to the next meeting and pitch your idea](/events/upcoming)!
+## Positions
 
-### 2 co-chairs
+These are the current positions, but new positions can be added with a simple majority of the steering committee - [come to the next meeting and pitch your idea](/events/upcoming)!
+
+### Co-Chairs (2):
 * Set meeting agendas & ownership over meeting logistics
 * Help guide overall chapter building process, make sure parts fit together
 * Facilitate meetings- Lead political decision-making processes incl. elections, bylaws development, priority-setting, etc
@@ -23,7 +27,7 @@ These are the current positions we have, but new positions can be added with a s
 * Maintain contact lists
 * Correspondence, especially internal chapter announcements
 
-### Treasurer
+### Treasurer:
 * Financial recordkeeping
 * Chapter bank account & incorporation (eventually)
 * Dues share coordination w/ national & collecting local dues (eventually)
@@ -33,7 +37,7 @@ These are the current positions we have, but new positions can be added with a s
 ### Social Media Coordinator:
 * Oversee Facebook, Twitter, Instagram any other efforts on social media. (You will have help!)
 
-### Membership/Outreach Coordinator
+### Membership/Outreach Coordinator:
 * Lead membership mapping & list work in accordance with political direction from chairs & membership
 * Gets up-to-date lists of members in good standing from National office & verifies membership when needed
 * Ownership of new member onboarding processes
