@@ -3,7 +3,7 @@ title: Chapter Elections
 description: Bringing new people & ideas into Fort Wayne DSA leadership
 ---
 
-**Fort Wayne DSA needs you!** Our steering committee has laid the foundation, and we need people to take our chapter to the next level. Fill out the form below to indicate your interest in one of the positions on our executive committee (the group of people that help organize the chapter)!
+**Fort Wayne DSA needs you!** Our steering committee has laid the foundation, and we need people to take our chapter to the next level. Fill out the form below to indicate your interest in one of the positions on our executive committee (the group of people that helps organize the chapter)!
 
 Deadline for submissions is 7pm on August 18th, where each candidate will have a chance to introduce themselves to the group - if you are unable to attend, please [email us a introductory paragraph for us to read at the meeting](/contact). 
 
