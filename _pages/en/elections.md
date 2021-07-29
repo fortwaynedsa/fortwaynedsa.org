@@ -1,7 +1,15 @@
 ---
 ---
 
-These are the current positions we have, but new positions can be added with a simple majority of the steering committee - come to the next meeting and pitch your idea! Whether it's one of these positions, or a new one, fill out the form at the bottom of this page!
+**Fort Wayne DSA needs you!** Our steering committee has laid the foundation, and we need people to take our chapter to the next level. Fill out the form below to indicate your interest in one of the positions on our executive committee (the group of people that help organize the chapter)!
+
+Deadline for submissions is 7pm on August 18th, where each candidate will have a chance to introduce themselves to the group - if you are unable to attend, please [email us a introductory paragraph for us to read at the meeting](/contact). 
+
+After the meeting, a link to the ballot will be emailed to our membership - voting will go on until 7pm on September 1st. The results will be announced at the meeting on the same day.
+
+<link href='https://actionnetwork.org/css/style-embed-whitelabel-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v4/form/candidate-nomination?format=js&source=widget'></script><div id='can-form-area-candidate-nomination' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
+
+These are the current positions we have, but new positions can be added with a simple majority of the steering committee - [come to the next meeting and pitch your idea](/events/upcoming)!
 
 ### 2 co-chairs
 * Set meeting agendas & ownership over meeting logistics
@@ -30,5 +38,3 @@ These are the current positions we have, but new positions can be added with a s
 * Gets up-to-date lists of members in good standing from National office & verifies membership when needed
 * Ownership of new member onboarding processes
 * Works with secretary on external correspondence
-
-<link href='https://actionnetwork.org/css/style-embed-whitelabel-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v4/form/candidate-nomination?format=js&source=widget'></script><div id='can-form-area-candidate-nomination' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
