@@ -5,9 +5,9 @@ description: Bringing new people & ideas into Fort Wayne DSA leadership
 
 **Fort Wayne DSA needs you!** Our steering committee has laid the foundation, and we need people to take our chapter to the next level. Fill out the form below to indicate your interest in one of the positions on our executive committee (the group of people that helps organize the chapter)!
 
-Deadline for submissions is 7pm on August 18th, where each candidate will have a chance to introduce themselves to the group - if you are unable to attend, please [email us a introductory paragraph for us to read at the meeting](/contact). 
+Deadline for submissions is 7pm on September 15th, where each candidate will have a chance to introduce themselves to the group - if you are unable to attend, please [email us a introductory paragraph for us to read at the meeting](/contact). 
 
-After the meeting, a link to the ballot will be emailed to our membership - voting will go on until 7pm on September 1st. The results will be announced at the meeting on the same day.
+After the meeting, a link to the ballot will be emailed to our membership - voting will go on until 7pm on September 29th. The results will be announced at the meeting on the same day.
 
 <link href='https://actionnetwork.org/css/style-embed-whitelabel-v3.css' rel='stylesheet' type='text/css' /><script src='https://actionnetwork.org/widgets/v4/form/candidate-nomination?format=js&source=widget'></script><div id='can-form-area-candidate-nomination' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
 

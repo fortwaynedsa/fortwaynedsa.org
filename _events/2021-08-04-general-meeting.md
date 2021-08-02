@@ -7,4 +7,4 @@ image: https://user-images.githubusercontent.com/141431/126895438-f46cbb3e-a834-
 
 We'll be going through more of the resolutions that will be voted on at the National Convention this week - join us to help set national priorities and decide the future for the DSA!
 
-Our chapter elections are also coming up, and we'll be going into detail about the positions that are available, and what each entails! The deadline for candidates to submit their nominations is August 18th - [click here to submit a nomination or to read more about them!](/elections)
+Our chapter elections are also coming up, and we'll be going into detail about the positions that are available, and what each entails! The deadline for candidates to submit their nominations is September 15th - [click here to submit a nomination or to read more about them!](/elections)
