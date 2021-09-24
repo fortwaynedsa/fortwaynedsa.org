@@ -26,6 +26,10 @@ elements:
       url:
         default: press
   - page:
+      en: Bylaws
+      url:
+        default: bylaws
+  - page:
       en: Contact
       url:
         default: contact
