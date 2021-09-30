@@ -14,7 +14,7 @@ As the largest socialist organization in the nation, we are a movement— not a 
 
 DSA’s members are building mass movements for social change in their respective cities. We are united in creating a more equitable world by establishing socialism as a political force. We believe our governments and economy should operate, through social ownership, for the benefit of all.
 
-Locally, we represent Huntington, Steuben, Wells, and Whitley counties and advocate for causes that impact our region and beyond. Our tagline is “Three Rivers, One Struggle,” and it’s a nod to the St. Mary’s, St. Joseph, and Maumee rivers that have been an intrinsic part of the city’s heritage. Like the rivers that come together to form a confluence, so do our members to promote freedom, equality, justice, and solidarity for the many, not the few.
+Locally, we represent Adams, Allen, Dekalb, Noble, Huntington, Steuben, Wells, and Whitley counties and advocate for causes that impact our region and beyond. Our tagline is “Three Rivers, One Struggle,” and it’s a nod to the St. Mary’s, St. Joseph, and Maumee rivers that have been an intrinsic part of the city’s heritage. Like the rivers that come together to form a confluence, so do our members to promote freedom, equality, justice, and solidarity for the many, not the few.
 
 Solidarity!
 
