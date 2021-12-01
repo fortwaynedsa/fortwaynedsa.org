@@ -11,22 +11,22 @@ recommended.
 It’s difficult to quantify the precise impact locally but given the poverty rate in Fort 
 Wayne Community Schools, the need is likely substantial. That’s why the Fort Wayne 
 chapter of the Democratic Socialists of America is taking action. To that end, the 
-organization is collecting Bring UNOPENED hygiene products including pads, tampons, 
+organization is collecting UNOPENED hygiene products including pads, tampons, 
 liners, and more to benefit FWCS students now through Dec. 15.
 
-“The Fort Wayne DSA is very excited to be starting our period product drive,” says Christopher
-Thurber, Fort Wayne DSA co-chair. “The need for menstrual products of teenage 
-students is substantial. At least half of the teenage population menstruates, and we 
-want to partner with individuals and organizations to collect products to help relieve 
-stress and anxiety around a natural bodily function. FW DSA hopes to offer relief to 
-people who are struggling with period poverty and shine a light on this issue in our 
+“The Fort Wayne DSA is very excited to be starting our period product drive,” says 
+Christopher Thurber, Fort Wayne DSA co-chair. “The need for menstrual products 
+during this stage of life is apparent. At least half of the teenage population menstruates, 
+and we want to partner with individuals and organizations to collect products to help 
+relieve stress and anxiety around a natural bodily function. FW DSA hopes to offer relief
+to people who are struggling with period poverty and shine a light on this issue in our 
 community. We hope that this is just the beginning on tackling this community issue 
 once and for all.”
 
 A list of drop-off sites in Fort Wayne are below:
 
 **Fort Wayne Farmers Market @ Parkview Field**  
-Saturday 9am-1pm, Wednesdays 3pm-7pm  
+Saturday 9am-1pm  
 285 W. Douglas Fort Wayne, IN 46802
 
 **YLNI Farmers Market**  
@@ -39,6 +39,7 @@ Saturday 9am-1pm
 Monetary donations can be made via PayPal: [https://paypal.me/laurencaggiano1](https://paypal.me/laurencaggiano1).
 
 ## Contact
+
 
 Lauren Caggiano  
 Founding Member/Drive Organizer  
