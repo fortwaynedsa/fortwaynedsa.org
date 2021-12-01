@@ -64,7 +64,7 @@ collections:
     output: true
   events:
     output: true
-  releases:
+  press:
     output: true
   opinions:
     output: true
