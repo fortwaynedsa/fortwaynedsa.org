@@ -36,7 +36,7 @@ Saturday 9am-1pm
 **Tazza Cafe**  
 5991 Bluffton Rd Fort Wayne, IN 46809
 
-Monetary donations can be made via PayPal: https://paypal.me/laurencaggiano1.
+Monetary donations can be made via PayPal: [https://paypal.me/laurencaggiano1](https://paypal.me/laurencaggiano1).
 
 ## Contact
 
