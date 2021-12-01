@@ -14,7 +14,7 @@ chapter of the Democratic Socialists of America is taking action. To that end, t
 organization is collecting Bring UNOPENED hygiene products including pads, tampons, 
 liners, and more to benefit FWCS students now through Dec. 15.
 
-“The Fort Wayne DSA is very excited to be starting our period product drive,” says Chris
+“The Fort Wayne DSA is very excited to be starting our period product drive,” says Christopher
 Thurber, Fort Wayne DSA co-chair. “The need for menstrual products of teenage 
 students is substantial. At least half of the teenage population menstruates, and we 
 want to partner with individuals and organizations to collect products to help relieve 
