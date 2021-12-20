@@ -12,7 +12,7 @@ It’s difficult to quantify the precise impact locally but given the poverty ra
 Wayne Community Schools, the need is likely substantial. That’s why the Fort Wayne 
 chapter of the Democratic Socialists of America is taking action. To that end, the 
 organization is collecting UNOPENED hygiene products including pads, tampons, 
-liners, and more to benefit FWCS students now through Dec. 15.
+liners, and more to benefit FWCS students now through **January 31st**.
 
 “The Fort Wayne DSA is very excited to be starting our period product drive,” says 
 Christopher Thurber, Fort Wayne DSA co-chair. “The need for menstrual products 
