@@ -26,9 +26,9 @@ elements:
       url:
         default: bylaws
   - page:
-      en: Abortion FAQ
+      en: Upcoming Elections
       url:
-        default: abortion-faq
+        default: elections
   - page:
       en: Contact
       url:
