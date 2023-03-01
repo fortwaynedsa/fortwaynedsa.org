@@ -16,10 +16,10 @@ Furthermore, half of the students surveyed have worn products longer than
 recommended.
 
 It’s difficult to quantify the precise impact locally but given the poverty rate in Fort 
-Wayne Community Schools, the need is likely substantial. That’s why the Fort Wayne 
-chapter of the Democratic Socialists of America is taking action. To that end, the 
-organization is collecting UNOPENED hygiene products including pads, tampons, 
-liners, and more to benefit FWCS students now through **March 31st**.
+Wayne Schools, the need is likely substantial. That’s why the Fort Wayne chapter of 
+the Democratic Socialists of America is taking action. To that end, the organization 
+is collecting UNOPENED hygiene products including pads, tampons, liners, and more to 
+benefit EACS students now through **March 31st**.
 
 *A list of drop-off sites in Fort Wayne are below:*
 
@@ -32,7 +32,10 @@ Saturday 9am-1pm
 350 Pearl Street, Fort Wayne, IN 46802
 
 **Tazza Cafe**  
-5991 Bluffton Rd Fort Wayne, IN 46809
+5991 Bluffton Rd, Fort Wayne, IN 46809
+
+**Acacia's Journey**
+1930 Bluffton Rd, Fort Wayne Indiana 46809
 
 Monetary donations can be made via PayPal: [https://paypal.me/laurencaggiano1](https://paypal.me/laurencaggiano1).
 
