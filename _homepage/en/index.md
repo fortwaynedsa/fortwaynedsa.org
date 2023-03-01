@@ -10,7 +10,7 @@ redirect_from:
 
 ![Period Product Drive 2023](/assets/images/period-product-drive-2023.png "Period Product Drive 2023")
 
-A 2021 survey revealed that nearly a quarter of teenage students in the U.S. 
+A 2021 survey revealed that nearly a quarter of teenage students in the U.S.
 experienced period poverty — the inability to access menstrual hygiene products. 
 Furthermore, half of the students surveyed have worn products longer than 
 recommended.
@@ -34,7 +34,7 @@ Saturday 9am-1pm
 **Tazza Cafe**  
 5991 Bluffton Rd, Fort Wayne, IN 46809
 
-**Acacia's Journey**
+**Acacia's Journey**  
 1930 Bluffton Rd, Fort Wayne Indiana 46809
 
 Monetary donations can be made via PayPal: [https://paypal.me/laurencaggiano1](https://paypal.me/laurencaggiano1).
