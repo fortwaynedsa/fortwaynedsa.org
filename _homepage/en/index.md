@@ -5,6 +5,21 @@ description: Democratic Socialist of America chapter in Fort Wayne, Indiana and 
 redirect_from:
   - /about
 ---
+
+## Period Product Drive 2023
+
+![Period Product Drive 2023](/assets/images/period-product-drive-2023.png "Period Product Drive 2023")
+
+### Drop-off locations:
+
+**The Sassy Vegan**
+1025 W Rudisill Blvd
+Fort Wayne, IN 46807
+
+**Acacias Journeys**
+1930 Bluffton Rd
+Fort Wayne, IN 46809
+
 ## What is the DSA?
 
 As the largest socialist organization in the nation, we are a movement— not a political party — that works against oppression in its many forms. We see these multiple forces — economic inequality, patriarchy, white supremacy, and others — as interlinked, intersecting and inseparable. 
